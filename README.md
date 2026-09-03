@@ -104,3 +104,5 @@ muestra este comando.
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
 
 - Dividir
+- Potencia
+- Promedio

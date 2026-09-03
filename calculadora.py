@@ -24,3 +24,6 @@ def raiz_cuadrada(numero):
 
 def porcentaje(numero, porcentaje):
     return numero * (porcentaje / 100)
+
+def promedio(lista_numeros):
+    return sum(lista_numeros) / len(lista_numeros)
