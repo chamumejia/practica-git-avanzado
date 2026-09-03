@@ -14,3 +14,5 @@ def dividir(a, b):
         return "Error: no se puede dividir entre cero"
     return a / b
 
+def potencia(base, exponente):
+    return base ** exponente
